@@ -6,7 +6,7 @@
 - 📫 How to reach me **douglas2502@gmail.com**
 
 - ⚡ Fun fact **I like play video games, watch animes and my favorite is one piece**
-
+<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/douglas-cesar-2881a6212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas cesar" height="30" width="40" /></a>
