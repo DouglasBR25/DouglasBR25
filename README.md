@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Douglas</h1>
 <h3 align="center">I'm a dev student from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, Java, Python**
 
 - 📫 How to reach me **douglas2502@gmail.com**
 
